@@ -9,11 +9,11 @@ Index of contents:
 
 <section id="Notes">
   <h2><em> Data visualization Notebooks: </em></h2>
-  1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a>  
-  2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/10.%20Areaplots%2C%20Histograms%20and%20bargraphs%20visualization.ipynb"> Areaplots, histogram and bargraphs </a>  
-  3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/11.%20Pie%20charts%2C%20Box%20plots%20and%20Scatter%20plots%2C%20Bubble%20plots%20visualization.ipynb"> Piecharts, boxplots and scatter plots </a>  
-  4. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/12.%20Visualizing%20Waffle%20charts%2C%20Word%20charts%2C%20regression%20plots.ipynb"> Waffle charts, word arts and regression plots </a>  
-  5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/13.%20Exploring%20folium%20maps.ipynb"> Exploring folium maps </a>  
+  1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a> <br>
+  2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/10.%20Areaplots%2C%20Histograms%20and%20bargraphs%20visualization.ipynb"> Areaplots, histogram and bargraphs </a>  <br>
+  3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/11.%20Pie%20charts%2C%20Box%20plots%20and%20Scatter%20plots%2C%20Bubble%20plots%20visualization.ipynb"> Piecharts, boxplots and scatter plots </a>  <br>
+  4. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/12.%20Visualizing%20Waffle%20charts%2C%20Word%20charts%2C%20regression%20plots.ipynb"> Waffle charts, word arts and regression plots </a>  <br>
+  5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/13.%20Exploring%20folium%20maps.ipynb"> Exploring folium maps </a>  <br>
   
   <h2><em> Machine learning algorithm Notebooks: </em></h2>
   1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/15.%20Simple%20Linear%20and%20Multi-Linear%20regression.ipynb"> Linear and Multiple regression </a>  
