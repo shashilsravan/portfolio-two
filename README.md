@@ -16,9 +16,9 @@ Index of contents:
   <ol>5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/13.%20Exploring%20folium%20maps.ipynb"> Exploring folium maps </a></ol>
   
   <h2><em> Machine learning algorithm Notebooks: </em></h2>
-  1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/15.%20Simple%20Linear%20and%20Multi-Linear%20regression.ipynb"> Linear and Multiple regression </a>  
-  2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/16.%20Polynomial%20Regression.ipynb"> Polynomial regression </a>  
-  3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/17.%20Non-linear%20regression.ipynb"> Non linear regression </a>  
+  <ol> 1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/15.%20Simple%20Linear%20and%20Multi-Linear%20regression.ipynb"> Linear and Multiple regression </a>  </ol>
+  <ol> 2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/16.%20Polynomial%20Regression.ipynb"> Polynomial regression </a> </ol> 
+  <ol> 3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/17.%20Non-linear%20regression.ipynb"> Non linear regression </a> </ol> 
 </section>
 
 <section id="ML">
