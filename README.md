@@ -2,7 +2,7 @@
 Here You can see all my works! Have a great day
 
 Index of contents:
-1. <ol><b> Data science python notebooks </b> </ol> :ledgeer:
+1. <ol><b> Data science python notebooks </b> </ol> :ledger:
 2. <ol><b> Machine Learning (Deep learning as well) </b> </ol>
 3. <ol><b> Web development </b> </ol>
 
