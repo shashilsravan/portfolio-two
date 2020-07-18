@@ -10,9 +10,9 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 
 <hr>
   <p float="left">
-  <img src="images/1.png" height="40%" width="40%" />
-  <img src="images/2.png" height="40%" width="40%" /> 
-  <img src="images/3.png" height="40%" width="40%" /> 
+  <img src="images/1.png" height="20%" width="20%" />
+  <img src="images/2.png" height="20%" width="20%" /> 
+  <img src="images/3.png" height="20%" width="20%" /> 
 </p>
 <hr>
   <b> <h1> :one: Data science python notebooks :ledger: </h1> </b>
