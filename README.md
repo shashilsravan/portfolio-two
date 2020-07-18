@@ -7,8 +7,10 @@ Index of contents:
 2. <ol><a href="#ML"> Machine Learning (Deep learning as well) </a> </ol>
 3. <ol><a href="#Web"> Web development </a> </ol>
 
+<hr>
 <section id="Notes">
   <h2><em> Data visualization Notebooks: </em></h2>
+  <center> <b><h1> Data science python notebooks </h1> </b></center>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a></ol>
   <ol>2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/10.%20Areaplots%2C%20Histograms%20and%20bargraphs%20visualization.ipynb"> Areaplots, histogram and bargraphs </a></ol>
   <ol>3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/11.%20Pie%20charts%2C%20Box%20plots%20and%20Scatter%20plots%2C%20Bubble%20plots%20visualization.ipynb"> Piecharts, boxplots and scatter plots </a></ol>
@@ -21,6 +23,8 @@ Index of contents:
   <ol> 3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/17.%20Non-linear%20regression.ipynb"> Non linear regression </a> </ol> 
 </section>
 
+<hr>
+
 <section id="ML">
   <h4> Click here for <a href="#"> <em> Machine learning and Deep learning algorithms </em> </a> </h4>
   <h2><em> Easy Level Projects </em></h2>
@@ -28,6 +32,7 @@ Index of contents:
   <h2><em> Hard Level Projects </em></h2>
 </section>
 
+<hr>
 
 <section id="Web">
   
