@@ -1,5 +1,5 @@
-## Hits
-[![HitCount](http://hits.dwyl.io/tterb/Hyde.svg)](http://hits.dwyl.io/tterb/Hyde)  
+## Views:
+[![HitCount](http://hits.dwyl.com/shashilsravan/MyProjects.svg)](http://hits.dwyl.com/shashilsravan/MyProjects)
 
 Hey! Thanks for being here :heart: Here You can see all my works! Have a great day :relaxed:
 
