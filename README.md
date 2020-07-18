@@ -27,13 +27,13 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 8. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/22.%20K-Means.ipynb"> K-Means Clustering </a> </ol>
   <ol> 9. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/23.%20Hierarchical%20Clustering.ipynb"> Heirarchial clustering </a> </ol>
   <ol> 10. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/005%20Naive%20Bayes.ipynb"> Naive Bayes </a> </ol>
-  
+  <br>
+  Click here for more <a href="https://github.com/shashilsravan/Machine-learning/tree/master/All%20with%20ML"> <em> Machine learning and Deep learning notebooks </em> </a>
 </section>
 
 <hr>
 
 <section id="ML">
-  <h4> Click here for <a href="#"> <em> Machine learning and Deep learning algorithms </em> </a> </h4>
   <h2><em> Easy Level Projects </em></h2>
   <h2><em> Medium Level Projects </em></h2>
   <h2><em> Hard Level Projects </em></h2>
