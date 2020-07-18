@@ -18,7 +18,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <img src="images/3.png" height="20%" width="20%" /> 
 </p>
 <hr>
-  <b> <h1> :one: Data science python notebooks :ledger: </h1> </b>
+  <b> <h1> :one: My Data science python notebooks :ledger: </h1> </b>
 <section id="Notes">
   <h2><em> Data visualization Notebooks: </em> :bar_chart: </h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a></ol>
@@ -27,7 +27,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol>4. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/12.%20Visualizing%20Waffle%20charts%2C%20Word%20charts%2C%20regression%20plots.ipynb"> Waffle charts, word arts and regression plots </a></ol>
   <ol>5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/13.%20Exploring%20folium%20maps.ipynb"> Exploring folium maps </a></ol>
   
-  <h2><em> Machine learning algorithm Notebooks: </em> :computer: </h2>
+  <h2><em> My Machine learning algorithm Notebooks: </em> :computer: </h2>
   <ol> 1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/15.%20Simple%20Linear%20and%20Multi-Linear%20regression.ipynb"> Linear and Multiple regression </a>  </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/16.%20Polynomial%20Regression.ipynb"> Polynomial regression </a> </ol> 
   <ol> 3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/17.%20Non-linear%20regression.ipynb"> Non linear regression </a> </ol> 
@@ -43,7 +43,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 </section>
 
 <hr>
-<b><h1> :two:  Machine learning projects :dizzy: </h1> </b>
+<b><h1> :two: My Machine learning projects :dizzy: </h1> </b>
 <section id="ML">
   <h2><em> :hushed: Easy Level Projects: </em></h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/Data%20sceince/2.%20Keras%20-%20Iris%20dataset.ipynb"> Iris Flowers classification </a> </ol>
@@ -54,7 +54,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 </section>
 
 <hr>
-<b><h1> :three:  Web development :gem: </h1> </b>
+<b><h1> :three: My Web development projects :gem: </h1> </b>
 <section id="Web">
   <h2><em> :hushed: Easy Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/ProductLandingPage"> Product landing page (HTML and CSS) </a> </ol>
