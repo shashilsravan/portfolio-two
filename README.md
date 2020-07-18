@@ -9,6 +9,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 4. <ol><b> My Certifications </b> </ol>
 
 <hr>
+### My badges
   <p float="left">
   <img src="images/1.png" height="20%" width="20%" />
   <img src="images/2.png" height="20%" width="20%" /> 
