@@ -62,4 +62,12 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <img src="images/ads.png" height="40%" width="40%" />
   <img src="images/dl.png" height="40%" width="40%" /> 
 </p>
+  <p float="left">
+  <img src="images/js.png" height="40%" width="40%" />
+  <img src="images/Web.png" height="40%" width="40%" /> 
+</p>
+  <p float="left">
+  <img src="images/ids.png" height="40%" width="40%" />
+  <img src="images/dl.png" height="40%" width="40%" /> 
+</p>
  </section>
