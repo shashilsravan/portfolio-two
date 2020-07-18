@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="styles.css">
+## Hits
+[![HitCount](http://hits.dwyl.io/tterb/Hyde.svg)](http://hits.dwyl.io/tterb/Hyde)
+[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat)](https://github.com/kentcdodds/all-contributors/blob/master/other/IMPLEMENTATIONS.md)  
+
 Hey! Thanks for being here :heart: Here You can see all my works! Have a great day :relaxed:
 
 ### Index of contents: 
