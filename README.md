@@ -6,6 +6,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 1. <ol><b> Data science python notebooks </b> </ol>
 2. <ol><b> Machine Learning (Deep learning as well) </b> </ol>
 3. <ol><b> Web development </b> </ol>
+4. <ol><b> My Certifications </b> </ol>
 
 <hr>
   <b> <h1> :one: Data science python notebooks :ledger: </h1> </b>
@@ -54,3 +55,8 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
+<hr>
+<b><h1> :three:  My certifications :mortar_board: </h1> </b>
+<section id="Certifications">
+ 
+ </section>
