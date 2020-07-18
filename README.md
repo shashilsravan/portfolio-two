@@ -3,5 +3,7 @@
 Here You can see all my works! Have a great day
 
 Index of contents:
-1. Machine Learning (Deep learning as well)
-2. Web development
+<li>
+  <ol><a href="#"> Machine Learning (Deep learning as well) </a> </ol>
+  <ol><a href="#"> Web development </a> </ol>
+</li>
