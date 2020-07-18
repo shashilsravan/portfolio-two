@@ -32,11 +32,11 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 </section>
 
 <hr>
-:two: <b><h1 class="headd"> Machine learning projects :dizzy: </h1> </b>
+<b><h1> :two:  Machine learning projects :dizzy: </h1> </b>
 <section id="ML">
-  <h2><em> Easy Level Projects </em></h2>
-  <h2><em> Medium Level Projects </em></h2>
-  <h2><em> Hard Level Projects </em></h2>
+  <h2><em> :relieved: Easy Level Projects </em></h2>
+  <h2><em> :frowning: Medium Level Projects </em></h2>
+  <h2><em> :fearful: Hard Level Projects </em></h2>
 </section>
 
 <hr>
