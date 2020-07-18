@@ -10,7 +10,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 
 <hr>
 
-## My badges
+## My badges:
 
   <p float="left">
   <img src="images/1.png" height="20%" width="20%" />
