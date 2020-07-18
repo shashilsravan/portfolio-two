@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 Hey! Thanks for being here :heart: Here You can see all my works! Have a great day :relaxed:
 
-Index of contents:
+<h3> <u> Index of contents: </u> </h3>
 1. <ol><b> Data science python notebooks </b> </ol>
 2. <ol><b> Machine Learning (Deep learning as well) </b> </ol>
 3. <ol><b> Web development </b> </ol>
