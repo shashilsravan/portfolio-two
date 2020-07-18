@@ -7,7 +7,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 3. <ol><b> Web development </b> </ol>
 
 <hr>
-  :one: <b><h1 class="headd"> Data science python notebooks :ledger: </h1> </b>
+  <b> :one: <h1> Data science python notebooks :ledger: </h1> </b>
 <section id="Notes">
   <h2><em> Data visualization Notebooks: </em> :bar_chart: </h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a></ol>
