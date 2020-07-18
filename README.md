@@ -38,6 +38,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <h2><em> :hushed: Easy Level Projects: </em></h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/Data%20sceince/2.%20Keras%20-%20Iris%20dataset.ipynb"> Iris Flowers classification </a> </ol>
   <ol>2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/Data%20sceince/4.%20Titanic%20survival%20prediction.ipynb"> Titanic Survival Prediction </a> </ol>
+  <ol> <a href="https://github.com/shashilsravan/Machine-learning/blob/master/Data%20sceince/5.%20Loan%20prediction.ipynb"> Loan return prediction </a></ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
