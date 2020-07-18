@@ -68,15 +68,12 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 <b><h1> :four:  My certifications :mortar_board: </h1> </b>
 <section id="Certifications">
 <p float="left">
-  <img src="images/ads.png" height="40%" width="40%" />
-  <img src="images/dl.png" height="40%" width="40%" /> 
+  <img src="images/ads.png" height="30%" width="30%" />
+  <img src="images/dl.png" height="30%" width="30%" /> 
+  <img src="images/ids.png" height="30%" width="30%" />
 </p>
   <p float="left">
   <img src="images/js.png" height="40%" width="40%" />
   <img src="images/Web.png" height="40%" width="40%" /> 
-</p>
-  <p float="left">
-  <img src="images/ids.png" height="40%" width="40%" />
-  <img src="images/dl.png" height="40%" width="40%" /> 
 </p>
  </section>
