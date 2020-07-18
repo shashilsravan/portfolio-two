@@ -20,6 +20,13 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/15.%20Simple%20Linear%20and%20Multi-Linear%20regression.ipynb"> Linear and Multiple regression </a>  </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/16.%20Polynomial%20Regression.ipynb"> Polynomial regression </a> </ol> 
   <ol> 3. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/17.%20Non-linear%20regression.ipynb"> Non linear regression </a> </ol> 
+  <ol> 4. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/18.%20K-Nearest-Neighbors.ipynb"> K-Nearest Neighbors </a> </ol>
+  <ol> 5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/19.%20Decision%20Trees.ipynb"> Decision Trees </a> </ol>
+  <ol> 6. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/20.%20Logistic%20regression.ipynb"> Logistic regression </a> </ol>
+  <ol> 7. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/21.%20Support%20vector%20machines.ipynb"> Support vector machines </a> </ol>
+  <ol> 8. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/22.%20K-Means.ipynb"> K-Means Clustering </a> </ol>
+  <ol> 9. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/23.%20Hierarchical%20Clustering.ipynb"> Heirarchial clustering </a> </ol>
+  <ol> 10. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/005%20Naive%20Bayes.ipynb"> Naive Bayes </a> </ol>
   
 </section>
 
