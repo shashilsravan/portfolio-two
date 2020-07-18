@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="styles.css">
-Here You can see all my works! Have a great day
+Hey! Thanks for being here :heart: Here You can see all my works! Have a great day :relaxed:
 
 Index of contents:
 1. <ol><b> Data science python notebooks </b> </ol>
