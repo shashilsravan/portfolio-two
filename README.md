@@ -34,7 +34,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 <hr>
 <b><h1> :two:  Machine learning projects :dizzy: </h1> </b>
 <section id="ML">
-  <h2><em> :relieved: Easy Level Projects </em></h2>
+  <h2><em> :simple_smile: Easy Level Projects </em></h2>
   <h2><em> :frowning: Medium Level Projects </em></h2>
   <h2><em> :fearful: Hard Level Projects </em></h2>
 </section>
