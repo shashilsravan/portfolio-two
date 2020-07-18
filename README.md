@@ -8,8 +8,7 @@ Index of contents:
 3. <ol><a href="#Web"> Web development </a> </ol>
 
 <hr>
-  <center> <b><h1> Data science python notebooks </h1> </b></center>
-<hr>
+  <b><h1 style="color:red"> Data science python notebooks </h1> </b>
 <section id="Notes">
   <h2><em> Data visualization Notebooks: </em></h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/1.%20Using%20NBA_API%20%26%20Pandas%20intro.ipynb"> Using pandas </a></ol>
