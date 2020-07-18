@@ -45,7 +45,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <h2><em> :hushed: Easy Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/ProductLandingPage"> Product landing page (HTML and CSS) </a> </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/DocumentationPage"> Documentation page (HTML and CSS) </a> </ol>
-  <ol> 3. <a href="https://github.com/shashilsravan/Portfolio"> Personal Portfolio page (Basic) </a> </ol>
+  <ol> 3. <a href="https://github.com/shashilsravan/Portfolio"> Personal Portfolio page (Basic) (HTML and CSS) </a> </ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
