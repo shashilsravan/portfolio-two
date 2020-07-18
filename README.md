@@ -58,6 +58,5 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 <hr>
 <b><h1> :four:  My certifications :mortar_board: </h1> </b>
 <section id="Certifications">
- <img src="images/ads.png" height=30% width = 30% />
-  <img src="images/dl.png" height=30% width = 30% />
+![alt-text-1](images/ads.png "Advanced-Data-Science") ![alt-text-2](images/dl.png "Deep-learning")
  </section>
