@@ -67,6 +67,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 6. <a href="https://github.com/shashilsravan/Navbar-and-Slider"> Navbar and slider (HTML+CSS and Bootstrap) </a> </ol>
   <ol> 7. <a href="https://github.com/shashilsravan/Sidebar-and-modals"> Sidebar and Modal (HTML+CSS and JS) </a> </ol>
   <ol> 8. <a href="https://github.com/shashilsravan/Queries-Project"> Queries Project (HTML+CSS and JS) </a> </ol>
+  <ol> 9. <a href="https://github.com/shashilsravan/tabs"> Tabs (HTML+CSS and JS) </a> </ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/Menu"> Menu page with filtering (HTML+CSS and JS) </a> </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Advanced) (HTML+CSS and JS) </a> </ol>
