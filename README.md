@@ -5,8 +5,9 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 ### Index of contents: 
 1. <ol><b> Data science python notebooks </b> </ol>
 2. <ol><b> Machine Learning (Deep learning as well) </b> </ol>
-3. <ol><b> Web development </b> </ol>
-4. <ol><b> My Certifications </b> </ol>
+3. <ol><b> Python Projects </b> </ol>
+4. <ol><b> Web development </b> </ol>
+5. <ol><b> My Certifications </b> </ol>
 
 <hr>
 
@@ -59,7 +60,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
 </section>
 
 <hr>
-<b><h1> :three: My Web development projects :gem: </h1> </b>
+<b><h1> :four: My Web development projects :gem: </h1> </b>
 <section id="Web">
   <h2><em> :hushed: Easy Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/ProductLandingPage"> Product landing page (HTML and CSS) </a> </ol>
@@ -80,7 +81,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
 <hr>
-<b><h1> :four:  My certifications :mortar_board: </h1> </b>
+<b><h1> :five:  My certifications :mortar_board: </h1> </b>
 <section id="Certifications">
 <p float="left">
   <img src="images/ads.png" height="30%" width="30%" />
