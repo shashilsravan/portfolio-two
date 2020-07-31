@@ -68,16 +68,17 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 3. <a href="https://github.com/shashilsravan/Portfolio"> Personal Portfolio page (Basic) (HTML and CSS) </a> </ol>
   <ol> 4. <a href="https://github.com/shashilsravan/randomQuote"> Random Quote Generator </a> and <a href="https://github.com/shashilsravan/Counter"> Counter (HTML+CSS and JS) </a> </ol>
   <ol> 5. <a href="https://github.com/shashilsravan/reviewsProject"> Random Reviews project (HTML+CSS and JS) </a> </ol>
-  <ol> 6. <a href="https://github.com/shashilsravan/Navbar-and-Slider"> Navbar and slider (HTML+CSS and Bootstrap) </a> </ol>
+  <ol> 6. <a href="https://github.com/shashilsravan/Ratings"> Ratings (HTML+CSS and JS) </a> </ol>
   <ol> 7. <a href="https://github.com/shashilsravan/Sidebar-and-modals"> Sidebar and Modal (HTML+CSS and JS) </a> </ol>
   <ol> 8. <a href="https://github.com/shashilsravan/Queries-Project"> Queries Project (HTML+CSS and JS) </a> </ol>
   <ol> 9. <a href="https://github.com/shashilsravan/tabs"> Tabs (HTML+CSS and JS) </a> </ol>
   <ol> 10. <a href="https://github.com/shashilsravan/Random-Text"> Random Text Generator (HTML+CSS and JS) </a> </ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
-  <ol> 1. <a href="https://github.com/shashilsravan/Menu"> Menu page with filtering (HTML+CSS and JS) </a> </ol>
-  <ol> 2. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Medium) (HTML+CSS and JS) </a> </ol>
-  <ol> 3. <a href="https://github.com/shashilsravan/ToDo-web"> Task Manager (HTML+CSS and JS) </a> </ol>
-  <ol> 4. <a href="https://github.com/shashilsravan/CountDown"> Count Down Page (HTML+CSS and JS) </a> </ol>
+  <ol> 1. <a href="https://github.com/shashilsravan/Navbar-and-Slider"> Navbar and slider (HTML+CSS and Bootstrap) </a> </ol>
+  <ol> 2. <a href="https://github.com/shashilsravan/Menu"> Menu page with filtering (HTML+CSS and JS) </a> </ol>
+  <ol> 3. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Medium) (HTML+CSS and JS) </a> </ol>
+  <ol> 4. <a href="https://github.com/shashilsravan/ToDo-web"> Task Manager (HTML+CSS and JS) </a> </ol>
+  <ol> 5. <a href="https://github.com/shashilsravan/CountDown"> Count Down Page (HTML+CSS and JS) </a> </ol>
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
 <hr>
