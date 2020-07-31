@@ -79,6 +79,8 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 3. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Medium) (HTML+CSS and JS) </a> </ol>
   <ol> 4. <a href="https://github.com/shashilsravan/ToDo-web"> Task Manager (HTML+CSS and JS) </a> </ol>
   <ol> 5. <a href="https://github.com/shashilsravan/CountDown"> Count Down Page (HTML+CSS and JS) </a> </ol>
+  <ol> 6. <a href="https://github.com/shashilsravan/Facts"> Year and Number Facts (HTML+CSS and JS with AJAX and FETCH) </a> </ol>
+  
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
 <hr>
