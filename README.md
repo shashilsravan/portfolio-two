@@ -82,6 +82,11 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 6. <a href="https://github.com/shashilsravan/Facts"> Year and Number Facts (HTML+CSS and JS with AJAX and FETCH) </a> </ol>
   
   <h2><em> :fearful: Hard Level Projects: </em></h2>
+  <ol> 1. <a href="https://github.com/shashilsravan/stackhack"> Task Manager </a> <br>
+  Frontend: Html, CSS, JS (Jquery and ChartJS as well) <br>
+  Backend: Django <br>
+  Data visualization of the tasks with chartJS, Event calendar based on the tasks scheduled, Archive/Edit/Delete the tasks and Signup-login-logout Functionality
+  </ol>
 </section>
 <hr>
 <b><h1> :five:  My certifications :mortar_board: </h1> </b>
