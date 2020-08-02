@@ -73,6 +73,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 8. <a href="https://github.com/shashilsravan/Queries-Project"> Queries Project (HTML+CSS and JS) </a> </ol>
   <ol> 9. <a href="https://github.com/shashilsravan/tabs"> Tabs (HTML+CSS and JS) </a> </ol>
   <ol> 10. <a href="https://github.com/shashilsravan/Random-Text"> Random Text Generator (HTML+CSS and JS) </a> </ol>
+  <ol> 11. <a href="https://github.com/shashilsravan/AnimieJS"> Simple Preloader  with anime JS </a> </ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/Navbar-and-Slider"> Navbar and slider (HTML+CSS and Bootstrap) </a> </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/Menu"> Menu page with filtering (HTML+CSS and JS) </a> </ol>
