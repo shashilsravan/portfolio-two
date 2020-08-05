@@ -77,13 +77,14 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <ol> 12. <a href="https://github.com/shashilsravan/Navbar-and-Slider"> Navbar and slider (HTML+CSS and Bootstrap) </a> </ol>
   <h2><em> :frowning: Medium Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/TravelPage"> Travel Agency Landing page (Using Materialize) </a> </ol>
-  <ol> 2. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Medium) (HTML+CSS and JS) </a> </ol>
+  <ol> 2. <a href="https://github.com/shashilsravan/Image-Editor"> Online image editor with caman JS (HTML+CSS and JS) </a> </ol>
   <ol> 3. <a href="https://github.com/shashilsravan/Filter"> Filtering with JS (Used Materialize) </a> </ol>
   <ol> 4. <a href="https://github.com/shashilsravan/ToDo-web"> Task Manager (HTML+CSS and JS) </a> </ol>
   <ol> 5. <a href="https://github.com/shashilsravan/Movie-Info"> Movie info page (With OMDB API) </a> </ol>
   <ol> 6. <a href="https://github.com/shashilsravan/Menu"> Menu page with filtering (HTML+CSS and JS) </a> </ol>
   <ol> 7. <a href="https://github.com/shashilsravan/CountDown"> Count Down Page (HTML+CSS and JS) </a> </ol>
   <ol> 8. <a href="https://github.com/shashilsravan/Facts"> Year and Number Facts (HTML+CSS and JS with AJAX and FETCH) </a> </ol>
+  <ol> 9. <a href="https://github.com/shashilsravan/Landing-Page"> Landing pade (Medium) (HTML+CSS and JS) </a> </ol>
   
   <h2><em> :fearful: Hard Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/stackhack"> Task Manager </a> <br>
