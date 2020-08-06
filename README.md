@@ -17,7 +17,7 @@ Hey! Thanks for being here :heart: Here You can see all my works! Have a great d
   <img src="images/1.png" height="20%" width="20%" />
   <img src="images/2.png" height="20%" width="20%" /> 
   <img src="images/3.png" height="20%" width="20%" /> 
-</p>
+</p> 
 <hr>
   <b> <h1> :one: My Data science python notebooks :ledger: </h1> </b>
 <section id="Notes">
