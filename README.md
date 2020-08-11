@@ -41,6 +41,7 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   <ol> 10. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/005%20Naive%20Bayes.ipynb"> Naive Bayes </a> </ol>
   <h2><em> Adv ML Notebooks (For better accuracy): </em> :muscle: </h2>
   <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/015%20Linear%20models%20and%20optimization.ipynb"> Linear models and optimization </a> </ol>
+  <ol>2. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/EDA.ipynb"> EDA notebook </a> </ol?
   <br>
   Click here for more <a href="https://github.com/shashilsravan/Machine-learning/tree/master/All%20with%20ML"> <em> Machine learning and Deep learning notebooks </em> </a>
 </section>
