@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/shashilsravan/MyProjects.svg)](http://hits.dwyl.com/shashilsravan/MyProjects)
 
-Hey!!! Thanks for being here :heart: Here you can see all my works! Have a great day :relaxed:
+Hey! Thanks for being here :heart: Here you can see all my works! Have a great day :relaxed:
 
 ### Index of contents: 
 1. <ol><b> Data science python notebooks </b> </ol>
