@@ -90,10 +90,12 @@ Hey!!! Thanks for being here :heart: Here you can see all my works! Have a great
   
   <h2><em> :fearful: Hard Level Projects: </em></h2>
   <ol> 1. <a href="https://github.com/shashilsravan/stackhack"> Task Manager </a> <br>
+
   Frontend: Html, CSS, JS (Jquery and ChartJS as well) <br>
   Backend: Django | Database: AWS (S3) <br>
   Data visualization of the tasks with chartJS, Event calendar based on the tasks scheduled, Archive/Edit/Delete the tasks and Signup-login-logout Functionality, setting labels for the tasks, Tasks searching and filtering (Based on tags, due days or date posted). Some cool stuffs like toasts, greetings, timestamps and profile page (with profile picture option) are also enabled
   </ol>
+  <ol> 2. <a href="https://github.com/shashilsravan/memeGenerator"> Meme Generator (with React) </a> <br>
 </section>
 <hr>
 <b><h1> :five:  My certifications :mortar_board: </h1> </b>
