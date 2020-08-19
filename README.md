@@ -96,7 +96,8 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   Data visualization of the tasks with chartJS, Event calendar based on the tasks scheduled, Archive/Edit/Delete the tasks and Signup-login-logout Functionality, setting labels for the tasks, Tasks searching and filtering (Based on tags, due days or date posted). Some cool stuffs like toasts, greetings, timestamps and profile page (with profile picture option) are also enabled
   </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/memeGenerator"> Meme Generator (with React) </a> and  <a href="https://github.com/shashilsravan/ExpenseTracker"> Expense Tracker (with React Hooks + Context API) </a> </ol>
-  <ol> 3. <a href="https://github.com/shashilsravan/resort-Web"> Resort rooms booking </a> </ol>
+  <ol> 3. <a href="https://github.com/shashilsravan/resort-Web"> Resort Booking (with React and context API) </a> </ol>
+  <ol> 4. <a href="https://github.com/shashilsravan/imageGallery"> Image gallery (React + Tailwind css + Pixabay api) </a> </ol>
   <br>
 </section>
 <hr>
