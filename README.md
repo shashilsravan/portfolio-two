@@ -97,7 +97,8 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   </ol>
   <ol> 2. <a href="https://github.com/shashilsravan/memeGenerator"> Meme Generator (with React) </a> and  <a href="https://github.com/shashilsravan/ExpenseTracker"> Expense Tracker (with React Hooks + Context API) </a> </ol>
   <ol> 3. <a href="https://github.com/shashilsravan/resort-Web"> Resort Booking (with React and context API) </a> </ol>
-  <ol> 4. <a href="https://github.com/shashilsravan/imageGallery"> Image gallery (React + Tailwind css + Pixabay api) </a> </ol>
+  <ol> 4. <a href="https://github.com/shashilsravan/imageGallery"> Image gallery (React + Tailwind css + Pixabay api) </a> and <a href="https://github.com/shashilsravan/evernote"> Note maker with firebase and reactJS </a></ol>
+  <ol> 5. <a href="https://github.com/shashilsravan/recipeFinder"> Recipe Finder with React Hooks <a/></ol>
   <br>
 </section>
 <hr>
