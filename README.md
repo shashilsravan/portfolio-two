@@ -57,6 +57,7 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   <ol>5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/017%20AutoEncoders%20for%20MNIST%20dataset.ipynb"> Autoencoders (noise and denoise image) </a></ol>
   
   <h2><em> :frowning: Medium Level Projects: </em></h2>
+  <ol>1. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/018%20PET%20Adoption.ipynb"> Pet Adoption challenge (Hackerearth) </a> </ol>
   <h2><em> :fearful: Hard Level Projects: </em></h2>
 </section>
 
