@@ -8,6 +8,8 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
 3. <ol><b> Python Projects </b> </ol>
 4. <ol><b> Web development </b> </ol>
 5. <ol><b> My Certifications </b> </ol>
+6. <ol><b> My Achievements </b> </ol>
+
 
 <hr>
 
@@ -114,5 +116,14 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   <p float="left">
   <img src="images/js.png" height="40%" width="40%" />
   <img src="images/Web.png" height="40%" width="40%" /> 
+</p>
+ </section>
+ <hr>
+ <b><h1> :six:  My Achievements :mortar_board: </h1> </b>
+<section id="Certifications">
+<p float="left">
+  <img src="images/machinelearning.png" height="30%" width="30%" />
+  <img src="images/Cybersecurity.png" height="30%" width="30%" /> 
+  <img src="images/reactJs.png" height="30%" width="30%" />
 </p>
  </section>
