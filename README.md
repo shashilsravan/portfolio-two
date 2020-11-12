@@ -58,7 +58,7 @@ Hey! Thanks for being here :heart: Here you can see all my works! Have a great d
   <ol>4. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/016%20CIFAR%20-%2010%20-%20CNN.ipynb"> CNN on CIFAR-10 dataset </a></ol>
   <ol>5. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/017%20AutoEncoders%20for%20MNIST%20dataset.ipynb"> Autoencoders (noise and denoise image) </a></ol>
   <ol>6. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/018%20PET%20Adoption.ipynb"> Pet Adoption challenge (Hackerearth) </a> </ol>
-  
+  <ol>7. <a href="https://github.com/shashilsravan/Machine-learning/blob/master/All%20with%20ML/019-movie-recommendation-system.ipynb"> Movie recommendation system using KNN </a></ol>
   <h2><em> :frowning: Image Processing - Deep learning </em></h2>
   
   <h2><em> :fearful: Computer vision and Face applications: </em></h2>
